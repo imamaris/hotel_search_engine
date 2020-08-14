@@ -1,4 +1,4 @@
-# hotel_search_engine
+# Hotel Search Engine Recommendation Project
 Hotel Search Engine Machine Learning Prediction Project
 
 1. Kasus pertama
